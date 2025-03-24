@@ -37,7 +37,7 @@ A Netflix-inspired movie streaming platform built using **React**, **CSS**, **Ja
 ---
 
 ## 🌟 Demo
-Check out the live demo here: [Netflix Clone Live](#) *(Add your deployment link)*
+Check out the live demo here: [https://netflix-clone-lyart-ten-23.vercel.app/](#) 
 
 ---
 
@@ -68,18 +68,7 @@ Follow these steps to set up the project locally:
  npm install
  ```
 
-
-3. Create a .env file in root directory and following variables:
-  ```
-  REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
-  REACT_APP_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-  REACT_APP_FIREBASE_PROJECT_ID=your_firebase_project_id
-  REACT_APP_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
-  REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
-  REACT_APP_FIREBASE_APP_ID=your_firebase_app_id
-  REACT_APP_TMDB_API_KEY=your_tmdb_api_key
-  ```
-4. Start the development server:
+3. Start the development server:
   ```bash
   npm run dev
   ```
