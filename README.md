@@ -44,13 +44,18 @@ Check out the live demo here: [https://netflix-clone-lyart-ten-23.vercel.app/](#
 ## 🖥️ Screenshots
 
 ### 🔑 Login Page
-![Login Page](#) *(Add a screenshot link)*
+
+![Screenshot 2025-03-24 174334](https://github.com/user-attachments/assets/c6b5d695-68bb-4d0c-8b83-41d017cdcc42)
+
 
 ### ✍️ Signup Page
-![Signup Page](#) *(Add a screenshot link)*
+
+![Screenshot 2025-03-24 174303](https://github.com/user-attachments/assets/db31bd3c-08b1-4877-8db4-f615995b61b3)
+
 
 ### 🏠 Home Page
-![Home Page](#) *(Add a screenshot link)*
+
+![Screenshot 2025-03-24 174319](https://github.com/user-attachments/assets/8478ed3b-f055-4b7d-94c6-e68413a079f1)
 
 ---
 
